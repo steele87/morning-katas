@@ -1,0 +1,15 @@
+{
+  "name": "calculatedivsors",
+  "version": "1.0.0",
+  "description": "The challenge is to implement a function which adds all the multiples of three and five below a certain number",
+  "main": "calculateDivsors.js",
+  "scripts": {
+    "test": "mocha ./spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.16.0"
+  }
+}
