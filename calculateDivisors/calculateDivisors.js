@@ -1,5 +1,6 @@
 var calculateDivisors = function (number) {
-    // Your code here
+    // Add some new comments to
+    // check the commit history
   };
   
   if (typeof module !== 'undefined') {
