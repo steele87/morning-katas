@@ -1,6 +1,16 @@
-var calculateDivisors = function (number) {
-    // Add some new comments to
-    // check the commit history
+var calculateDivisors = function (num) {
+
+  let divisibleNumbers = 0;
+
+  for (var i = 1; i < num; i++) {
+    if (i % 3 === 0) {
+      divisibleNumbers += i;
+    
+    }  
+  }
+
+ return divisibleNumbers;
+
   };
   
   if (typeof module !== 'undefined') {
